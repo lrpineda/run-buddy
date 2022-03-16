@@ -12,3 +12,5 @@ https://lrpineda.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Luis Pineda
+
+### ©️2019 Run Buddy, Inc 
