@@ -1,4 +1,4 @@
-# Run Buddy Inc
+# Run Buddy - Inc 
 
 ## Purpose
 A website that offers fitness training services.
@@ -13,4 +13,4 @@ https://lrpineda.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Luis Pineda
 
-### ©️2022 Run Buddy, Inc 
+### ©️2022 Run Buddy, Inc rights reserved 
